@@ -1,0 +1,48 @@
+                           ━━━━━━━━━━━━━━━━━━
+                            PROCESS PROPOSAL
+
+                             Yasushi Sakai
+                           ━━━━━━━━━━━━━━━━━━
+
+
+                            2021-03-16 13:17
+
+
+
+Citizens and Working Groups will run the Makuhari City’s Governance
+Model using RFCs (Request for Comments).
+
+There will be two types of RFCs, each corresponding to the working
+group. One is the Infrastructure Working Group that oversees the City’s
+Governance Model and the development and maintenance needed to build
+consensus. The other is the Culture Working Group which overlooks the
+city’s cultural values and projects relate to the goal.
+
+RFCs will take three phases, Draft, Approved, InProgress, Terminated.
+RFCs will be advanced phases by pull requests. After the first Pull
+Request, the issue number is used as the RFCs’ ID number.
+
+Any citizen can submit a draft proposal of either type (Infrastructural
+or Cultural) of a proposal to the drafts directory of the RFCs
+repository.
+
+It is advised that the citizen discusses using the city’s communication
+channel (matrix.metacity.jp or equivalent) to gauge the interest.
+
+Once it is ready to get approved, the author submits a pull request, and
+the target working group will function as the chair of that approval
+process. After sufficient amount of deliberation, the working group will
+define a final call for comments period to ensure all citizens are
+informed and have time to discuss. Any offline meeting should be shared
+in the city’s communication channel. After the due date of the final
+call for comments period, there will be a three-day period to vote using
+the city’s consensus mechanism. A 2/3 supermajority will need to have
+the RFC approved.
+
+If the RFC is a fixed duration project, once approved, the working group
+will send another pull request to advance the RFC to InProgress. The
+original author of the RFC will be assigned to accept this PR.
+
+If a fixed duration project comes to an end of its term or an updated
+version of the RFC is approved, the RFC is moded to the Terminated
+directory.
